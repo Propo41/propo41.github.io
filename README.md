@@ -3,6 +3,7 @@
  A personal portfolio of myself made using React and the material UI library 🐴
 - The deployed html files can be found [here](https://github.com/Propo41/propo41.github.io)
 - The figma design can be found [here](https://www.figma.com/file/LwwsVZ1WRazesqS9A1DzSV/Resume-Website?node-id=501%3A325)
+- Admin panel can be found [here](https://admin-personal-portfolio.netlify.app/)
 
 Problems faced
 ---
