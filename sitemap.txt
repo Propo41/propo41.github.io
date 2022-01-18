@@ -1,0 +1,6 @@
+https://propo41.github.io/personal_website/
+https://propo41.github.io/personal_website/?/about
+https://propo41.github.io/personal_website/?/skills
+https://propo41.github.io/personal_website/?/projects
+https://propo41.github.io/personal_website/?/contact
+https://propo41.github.io/personal_website/?/404
