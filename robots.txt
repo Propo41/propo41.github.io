@@ -1,6 +1,3 @@
 # https://www.robotstxt.org/robotstxt.html
-# The "User-agent: *" means this section applies to all robots. 
-# The "Disallow: /" tells the robot that it should not visit any pages on the site.
-# User-agent: *
-# Disallow:
-Sitemap: https://propo41.github.io/personal_website/sitemap.txt
+User-agent: *
+Disallow:
